@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @junidmustarhakim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Nama : Junid mustar hakim
+kls : Teknologi informasi (A)
+Nim 1821500038
+
+
 
 <!---
 junidmustarhakim/junidmustarhakim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
